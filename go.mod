@@ -6,7 +6,7 @@ require (
 	github.com/go-volumes/nbd v0.0.0-20260616164735-eb90a0b53f8c
 	github.com/go-volumes/replica v0.0.0-20260616210210-95d9c6ca66c9
 	github.com/go-volumes/replica-ha v0.0.0-20260616210211-880f4f6ef9f3
-	github.com/openweft/weft-proto v0.5.0
+	github.com/openweft/weft-proto v0.12.0
 	github.com/spf13/cobra v1.10.2
 	go.etcd.io/etcd/client/v3 v3.6.12
 	go.etcd.io/etcd/server/v3 v3.6.12
