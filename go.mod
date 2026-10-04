@@ -1,6 +1,6 @@
 module github.com/openweft/weft-ha-block
 
-go 1.26.4
+go 1.27.1
 
 require (
 	github.com/go-volumes/nbd v0.0.0-20260616164735-eb90a0b53f8c
